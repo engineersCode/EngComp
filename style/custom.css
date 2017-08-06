@@ -1,4 +1,5 @@
-<link href="https://fonts.googleapis.com/css?family=Merriweather|Source+Sans+Pro" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,700,700i" rel="stylesheet">
 <link href='http://fonts.googleapis.com/css?family=Source+Code+Pro:300,400' rel='stylesheet' type='text/css'>
 <style>
 
@@ -13,7 +14,7 @@
 }
 
 div.cell { /* set cell width */
-    width: 750px;
+    width: 800px;
 }
 
 div #notebook { /* centre the content */
@@ -43,11 +44,10 @@ div.cell.code_cell {
 
 
 div.text_cell_render{
-    font-family: 'Source Sans Pro' sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     line-height: 140%;
-    font-size: 125%;
-    font-weight: 400;
-    width:600px;
+    font-size: 110%;
+    width:680px;
     margin-left:auto;
     margin-right:auto;
 }
@@ -56,37 +56,41 @@ div.text_cell_render{
 .text_cell_render h1 {
     font-family: 'Merriweather', serif;
     font-style:regular;
-    font-weight: 200;    
-    font-size: 40pt;
+    font-weight: bold;    
+    font-size: 250%;
     line-height: 100%;
-    color: #138d75;
-    margin-bottom: 0.5em;
+    color: #004065;
+    margin-bottom: 1em;
     margin-top: 0.5em;
     display: block;
 }	
 .text_cell_render h2 {
     font-family: 'Merriweather', serif;
-    font-size: 20pt;
+    font-weight: bold; 
+    font-size: 180%;
     line-height: 100%;
-    margin-bottom: 0.1em;
-    color: #1f618d;
-    margin-top: 0.3em;
+    color: #0096d6;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
     display: block;
 }	
 
 .text_cell_render h3 {
     font-family: 'Merriweather', serif;
+	font-size: 150%;
     margin-top:12px;
-	font-size: 16pt;
     margin-bottom: 3px;
     font-style: regular;
+    color: #008367;
 }
 
 .text_cell_render h4 {    /*Use this for captions*/
     font-family: 'Merriweather', serif;
-    font-size: 12pt;
+    font-weight: 300; 
+    font-size: 100%;
+    line-height: 120%;
     text-align: center;
-    margin-top: 0em;
+    margin-top: 1em;
     margin-bottom: 2em;
     font-style: regular;
 }
