@@ -97,12 +97,12 @@ div.text_cell_render{
 
 .text_cell_render h5 {  /*Use this for small titles*/
     font-family: 'Source Sans Pro', sans-serif;
-    font-weight: 300;
-    font-size: 16pt;
-    color: #CD2305;
+    font-weight: regular;
+    font-size: 130%;
+    color: #e31937;
     font-style: italic;
     margin-bottom: .5em;
-    margin-top: 0.5em;
+    margin-top: 1em;
     display: block;
 }
 
