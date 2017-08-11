@@ -6,4 +6,4 @@ Background: What is Python? Idea of interpreted vs. compiled language. Why use P
 Getting started: interactive Python (IPython).
 Using Python as a calculator.
 New concepts: function, string, variables, assignment, type, special variables (`True`, `False`, `None`).
-Supported operations, logical operations.
+Supported operations, logical operations. Reading error messages.
