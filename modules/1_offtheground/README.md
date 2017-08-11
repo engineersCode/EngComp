@@ -1,6 +1,7 @@
 # Module 1: Get data off the ground
 
-##Lesson 1: Interacting with Python.
+## Lesson 1: Interacting with Python.
+
 Background: What is Python? Idea of interpreted vs. compiled language. Why use Python? It is a general-purpose and high-productivity language.
 Getting started: interactive Python (IPythons).
 Using Python as a calculator.
