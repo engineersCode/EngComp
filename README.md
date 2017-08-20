@@ -12,11 +12,17 @@ We use Python as the programming language.
 ## Course Modules
 
 **Module 1: Get data off the ground**
+Background: What is Python? Idea of interpreted vs. compiled language. Why use Python? It is a general-purpose and high-productivity language.
+Getting started: interactive Python (IPython).
+Using Python as a calculator.
+New concepts: function, string, variables, assignment, type, special variables (`True`, `False`, `None`).
+Supported operations, logical operations. Reading error messages.
+
 
 **Module 2: Take of with stats**
 
 [More modules to come.]
 
-#### Copyright and License
+## Copyright and License
 
 (c) 2017 Lorena A. Barba, Natalia C. Clementi. All content is under Creative Commons Attribution CC-BY 4.0, and all code is under BSD-3 clause. We are happy if you re-use the content in any way!
