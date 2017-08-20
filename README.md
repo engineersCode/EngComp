@@ -11,7 +11,7 @@ We use Python as the programming language.
 
 ## Course Modules
 
-**Module 1: Get data off the ground**
+**[Module 1: Get data off the ground](https://github.com/engineersCode/EngComp/tree/master/modules/1_offtheground)—**
 Background: What is Python? Idea of interpreted vs. compiled language. Why use Python? It is a general-purpose and high-productivity language.
 Getting started: interactive Python (IPython).
 Using Python as a calculator.
