@@ -24,9 +24,6 @@ Using Python as a calculator.
 New concepts: function, string, variables, assignment, type, special variables (`True`, `False`, `None`).
 Supported operations, logical operations. Reading error messages.
 
-**Module 2: Take of with stats**
-
-[More modules to come.]
 
 ## Copyright and License
 
