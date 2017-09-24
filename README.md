@@ -17,12 +17,19 @@ In particular, we want to design a course that adheres to Papert's _Power Princi
 
 ## Course Modules
 
-**[Module 1: Get data off the ground](https://github.com/engineersCode/EngComp/tree/master/modules/1_offtheground)—**
-Background: What is Python? Idea of interpreted vs. compiled language. Why use Python? It is a general-purpose and high-productivity language.
-Getting started: interactive Python (IPython).
-Using Python as a calculator.
-New concepts: function, string, variables, assignment, type, special variables (`True`, `False`, `None`).
-Supported operations, logical operations. Reading error messages.
+**[Module 1: Get data off the ground](https://github.com/engineersCode/EngComp/tree/master/modules/1_offtheground)**
+
+1) Interacting with Python
+2) Play with data in Jupyter
+3) Strings and lists in action (MAE Bulletin example)
+4) Play with NumPy arrays
+5) Linear regression with real data
+
+**Module 2: Take off with stats**
+
+**Module 3: Fly at change in systems**
+
+**Module 4: Land on vector spaces**
 
 
 ## Copyright and License
