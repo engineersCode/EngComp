@@ -25,7 +25,11 @@ In particular, we want to design a course that adheres to Papert's _Power Princi
 4) Play with NumPy arrays
 5) Linear regression with real data
 
-**Module 2: Take off with stats**
+**[Module 2: Take off with stats](https://github.com/engineersCode/EngComp/tree/master/modules/2_takeoff)**
+
+1) Cheers! Stats with beers
+2) Seeing stats in a new light
+3) Lead in lipstick
 
 **Module 3: Fly at change in systems**
 
