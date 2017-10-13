@@ -5,7 +5,7 @@ This folder contains the learning modules for the course in Engineering Computat
 **[Module 1: Get data off the ground](https://github.com/engineersCode/EngComp/tree/master/modules/1_offtheground)**
 
 
-**Module 2: Take off with stats**
+[**Module 2: Take off with stats**](https://github.com/engineersCode/EngComp/tree/master/modules/2_takeoff)
 
 **Module 3: Fly at change in systems**
 
