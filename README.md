@@ -18,23 +18,27 @@ In particular, we want to design a course that adheres to Papert's _Power Princi
 ## Course Modules
 
 **[Module 1: Get data off the ground](https://github.com/engineersCode/EngComp/tree/master/modules/1_offtheground)**
+— Learn to interact with Python and handle data with Python.
 
 1) Interacting with Python
 2) Play with data in Jupyter
-3) Strings and lists in action (MAE Bulletin example)
+3) Strings and lists in action (a full example)
 4) Play with NumPy arrays
 5) Linear regression with real data
 
 **[Module 2: Take off with stats](https://github.com/engineersCode/EngComp/tree/master/modules/2_takeoff)**
+— Hands-on data analysis using a computational approach and real-life applications.
 
 1) Cheers! Stats with beers
 2) Seeing stats in a new light
-3) Lead in lipstick
+3) Lead in lipstick (a full example)
+4) Life expectancy and wealth
 
 **Module 3: Fly at change in systems**
+— Tackling the dynamics of change with computational thinking. (Under development.)
 
 **Module 4: Land on vector spaces**
-
+— Using vectors and matrices in engineering with the power of linear algebra. (Under development.)
 
 ## Copyright and License
 
