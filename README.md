@@ -21,7 +21,7 @@ In particular, we want to design a course that adheres to Papert's _Power Princi
 
 1) Interacting with Python
 2) Play with data in Jupyter
-3) Strings and lists in action (MAE Bulletin example)
+3) Strings and lists in action (a full example)
 4) Play with NumPy arrays
 5) Linear regression with real data
 
@@ -29,12 +29,14 @@ In particular, we want to design a course that adheres to Papert's _Power Princi
 
 1) Cheers! Stats with beers
 2) Seeing stats in a new light
-3) Lead in lipstick
+3) Lead in lipstick (a full example)
+4) Life expectancy and wealth
 
 **Module 3: Fly at change in systems**
+(Under development)
 
 **Module 4: Land on vector spaces**
-
+(Under development)
 
 ## Copyright and License
 
