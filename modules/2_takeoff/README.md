@@ -18,3 +18,10 @@ Continuing with the data set of canned craft beers, this lesson focuses on _visu
 ### [Lesson 3](http://go.gwu.edu/engcomp2lesson3): Lead in lipstick
 
 A full worked example using what you learned in lessons 1 and 2: using data from studies by the US Food and Drug Administration on the lead content in lipstick, we fact-check alarming news headlines. Based on Prof. Kristin Sainani's lecture, ["Exploring real data: lead in lipstick,"](https://youtu.be/nlKIT-_b2jU) of her Stanford Online course ["Statistics in Medicine."](https://lagunita.stanford.edu/courses/Medicine/MedStats-SP/SelfPaced/about)
+
+### [Lesson 4](http://go.gwu.edu/engcomp2lesson4): Life expectancy and wealth
+
+Deeper dive into `pandas`, using data for life expectancy and per-capita income over time, across the world. Inspired by the work of Hans Rosling.
+Pandas methods: `head()`, `info()`, `value_counts()`, `groupby()`, `describe()`, `groupby.first()`, `groupby.get_group()`, `idxmin()`
+Categorical data type.
+Bubble plots, spaghetti plots, and interactive widgets.
