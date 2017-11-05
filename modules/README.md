@@ -7,6 +7,6 @@ This folder contains the learning modules for the course in Engineering Computat
 
 [**Module 2: Take off with stats**](https://github.com/engineersCode/EngComp/tree/master/modules/2_takeoff)
 
-**Module 3: Fly at change in systems**
+**[Module 3: Fly at change in systems](https://github.com/engineersCode/EngComp/tree/master/modules/3_flyatchange)**
 
 **Module 4: Land on vector spaces**
