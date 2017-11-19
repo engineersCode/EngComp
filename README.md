@@ -38,6 +38,7 @@ In particular, we want to design a course that adheres to Papert's _Power Princi
 — Tackling the dynamics of change with computational thinking. (Under development.)
 
 1) Catch things in motion
+2) Step to the future
 
 **Module 4: Land on vector spaces**
 — Using vectors and matrices in engineering with the power of linear algebra. (Under development.)
