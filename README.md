@@ -10,7 +10,7 @@ Each module is made up of four or five lessons, written as a Jupyter notebook.
 We use Python as the programming language.
 
 ## Course Philosophy
-We take inspiration in the ideas of Seymour Papert about computational thinking.
+We take inspiration in the ideas of [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert) about computational thinking.
 In particular, we want to design a course that adheres to Papert's _Power Principle_:
 
 > What comes first, "using" or "understanding"? The natural mode of learning is to first use, leading slowly to understanding. New ideas are a source of power to _do something_.
@@ -39,6 +39,7 @@ In particular, we want to design a course that adheres to Papert's _Power Princi
 
 1) Catch things in motion
 2) Step to the future
+3) Get with the oscillations
 
 **Module 4: Land on vector spaces**
 — Using vectors and matrices in engineering with the power of linear algebra. (Under development.)
