@@ -40,6 +40,7 @@ In particular, we want to design a course that adheres to Papert's _Power Princi
 1) Catch things in motion
 2) Step to the future
 3) Get with the oscillations
+4) Bird's-eye view of mechanical vibrations
 
 **Module 4: Land on vector spaces**
 — Using vectors and matrices in engineering with the power of linear algebra. (Under development.)

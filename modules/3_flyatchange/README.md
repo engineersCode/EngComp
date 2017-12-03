@@ -17,3 +17,7 @@ Computing velocity and position from accelerometer data: a roller-coaster ride. 
 Differential model of a spring-mass system without friction: state vector and system in vector form. Amplitude growth with Euler's method on oscillatory systems, and the fix: Euler-Cromer method (semi-implicit Euler).
 Numerically observed order of accuracy using a convergence plot: numerical error with different time increments, ∆t.
 Modified Euler's method, and observed order of accuracy.
+
+### [Lesson 4](http://go.gwu.edu/engcomp3lesson4): Bird's-eye view of mechanical vibrations
+
+General spring-mass systems with damping and a driving force, revealing a variety of behaviors. Presents a powerful new method to study dynamical systems based on visualizing direction fields and trajectories in the phase plane.
