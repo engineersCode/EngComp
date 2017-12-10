@@ -53,7 +53,7 @@ Then navigate to `modules`, select one of the course modules, and lauch any note
 4) Bird's-eye view of mechanical vibrations
 
 * **Get a PDF version to print**: _Engineering Computations Module 3: Fly at change in systems._ figshare.
- ttps://doi.org/10.6084/m9.figshare.5673526
+ https://doi.org/10.6084/m9.figshare.5673526
 
 ## Copyright and License
 
