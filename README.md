@@ -31,6 +31,9 @@ Then navigate to `modules`, select one of the course modules, and lauch any note
 4) Play with NumPy arrays
 5) Linear regression with real data
 
+* **Get a PDF version to print**: _Engineering Computations Module 1: Get data off the ground._ figshare. https://doi.org/10.6084/m9.figshare.5673454.v1
+
+
 **[Module 2: Take off with stats](https://github.com/engineersCode/EngComp/tree/master/modules/2_takeoff)**
 — Hands-on data analysis using a computational approach and real-life applications.
 
@@ -38,6 +41,8 @@ Then navigate to `modules`, select one of the course modules, and lauch any note
 2) Seeing stats in a new light
 3) Lead in lipstick (a full example)
 4) Life expectancy and wealth
+
+* **Get a PDF version to print**: _Engineering Computations Module 2: Take off with stats._ figshare. https://doi.org/10.6084/m9.figshare.5673499.v1
 
 **[Module 3: Fly at change in systems](https://github.com/engineersCode/EngComp/tree/master/modules/3_flyatchange)**
 — Tackling the dynamics of change with computational thinking. (Under development.)
@@ -47,6 +52,8 @@ Then navigate to `modules`, select one of the course modules, and lauch any note
 3) Get with the oscillations
 4) Bird's-eye view of mechanical vibrations
 
+* **Get a PDF version to print**: _Engineering Computations Module 3: Fly at change in systems._ figshare.
+ ttps://doi.org/10.6084/m9.figshare.5673526
 
 ## Copyright and License
 
