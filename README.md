@@ -47,8 +47,6 @@ Then navigate to `modules`, select one of the course modules, and lauch any note
 3) Get with the oscillations
 4) Bird's-eye view of mechanical vibrations
 
-**Module 4: Land on vector spaces**
-— Using vectors and matrices in engineering with the power of linear algebra. (Under development.)
 
 ## Copyright and License
 
