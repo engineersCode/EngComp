@@ -17,6 +17,11 @@ In particular, we want to design a course that adheres to Papert's _Power Princi
 
 ## Course Modules
 
+Get an interactive session in [MyBinder.org](https://mybinder.org/) with these course materials by clicking on the button below.
+Then navigate to `modules`, select one of the course modules, and lauch any notebook.
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/engineersCode/EngComp/master)
+
 **[Module 1: Get data off the ground](https://github.com/engineersCode/EngComp/tree/master/modules/1_offtheground)**
 — Learn to interact with Python and handle data with Python.
 
