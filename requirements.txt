@@ -11,4 +11,5 @@ matplotlib==2.0.2
 notebook==5.0.0
 numpy==1.13.1
 numpydoc==0.7.0
+pandas==0.20.3
 urllib3==1.22
