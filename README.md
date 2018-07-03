@@ -24,7 +24,7 @@ In particular, we want to design a course that adheres to Papert's _Power Princi
 
 ## Course Modules
 
-**[Module 1: Get data off the ground](https://github.com/engineersCode/EngComp/tree/master/modules/1_offtheground)**
+**[Module 1: Get data off the ground](https://github.com/engineersCode/EngComp1_offtheground)**
 — Learn to interact with Python and handle data with Python.
 
 1) Interacting with Python
@@ -36,7 +36,7 @@ In particular, we want to design a course that adheres to Papert's _Power Princi
 * **Get a PDF version to print**: _Engineering Computations Module 1: Get data off the ground._ figshare. https://doi.org/10.6084/m9.figshare.5673454.v1
 
 
-**[Module 2: Take off with stats](https://github.com/engineersCode/EngComp/tree/master/modules/2_takeoff)**
+**[Module 2: Take off with stats](https://github.com/engineersCode/EngComp2_takeoff)**
 — Hands-on data analysis using a computational approach and real-life applications.
 
 1) Cheers! Stats with beers
@@ -46,7 +46,7 @@ In particular, we want to design a course that adheres to Papert's _Power Princi
 
 * **Get a PDF version to print**: _Engineering Computations Module 2: Take off with stats._ figshare. https://doi.org/10.6084/m9.figshare.5673499.v1
 
-**[Module 3: Fly at change in systems](https://github.com/engineersCode/EngComp/tree/master/modules/3_flyatchange)**
+**[Module 3: Fly at change in systems](https://github.com/engineersCode/EngComp3_flyatchange)**
 — Tackling the dynamics of change with computational thinking. (Under development.)
 
 1) Catch things in motion
