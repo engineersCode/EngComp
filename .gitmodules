@@ -1,0 +1,12 @@
+[submodule "modules/1_offtheground"]
+	path = modules/1_offtheground
+	url = https://github.com/engineersCode/EngComp1_offtheground.git
+	branch = master
+[submodule "modules/2_takeoff"]
+	path = modules/2_takeoff
+	url = https://github.com/engineersCode/EngComp2_takeoff.git
+	branch = master
+[submodule "modules/3_flyatchange"]
+	path = modules/3_flyatchange
+	url = https://github.com/engineersCode/EngComp3_flyatchange.git
+	branch = master
