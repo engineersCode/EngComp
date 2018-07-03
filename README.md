@@ -9,6 +9,13 @@ The course consists of a set of somewhat self-contained Modules, addressing an a
 Each module is made up of four or five lessons, written as a Jupyter notebook.
 We use Python as the programming language.
 
+## How to clone this repository
+
+This repository uses git submodules to include contents from individual repositories for each course module. 
+To clone the complete collection, use the command:
+
+` git clone --recursive https://github.com/engineersCode/EngComp.git`
+
 ## Course Philosophy
 We take inspiration in the ideas of [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert) about computational thinking.
 In particular, we want to design a course that adheres to Papert's _Power Principle_:
