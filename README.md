@@ -47,7 +47,7 @@ In particular, we want to design a course that adheres to Papert's _Power Princi
 * **Get a PDF version to print**: _Engineering Computations Module 2: Take off with stats._ figshare. https://doi.org/10.6084/m9.figshare.5673499.v1
 
 **[Module 3: Fly at change in systems](https://github.com/engineersCode/EngComp3_flyatchange)**
-— Tackling the dynamics of change with computational thinking. (Under development.)
+— Tackling the dynamics of change with computational thinking. 
 
 1) Catch things in motion
 2) Step to the future
