@@ -1,12 +1,10 @@
 # Engineering Computations
 
-A sophomore course in Engineering Computations at the George Washington University, Mechanical and Aerospace Engineering department. 
-The local course number is [MAE 2117](http://bulletin.gwu.edu/search/?P=MAE%202117). 
+This project is a collection of learning modules in engineering computations for undergraduate students. 
+The project lead is Prof. Lorena A. Barba at the George Washington University, Mechanical and Aerospace Engineering department. 
+In Fall 2017, Prof. Barba worked with doctoral student Natalia C. Clementi to produce the first three modules of the series.
 
-This is a full course re-write for Fall 2017, by Prof. Lorena A. Barba and doctoral student Natalia C. Clementi.
-
-The course consists of a set of somewhat self-contained Modules, addressing an area of application or skills in computing.
-Each module is made up of four or five lessons, written as a Jupyter notebook.
+Eeach learning modules is made up of four or five lessons, written as a Jupyter notebook, and addressing an area of application or skills in computing.
 We use Python as the programming language.
 
 ## How to clone this repository
@@ -16,13 +14,13 @@ To clone the complete collection, use the command:
 
 ` git clone --recursive https://github.com/engineersCode/EngComp.git`
 
-## Course Philosophy
+## Design philosophy
 We take inspiration in the ideas of [Seymour Papert](https://en.wikipedia.org/wiki/Seymour_Papert) about computational thinking.
-In particular, we want to design a course that adheres to Papert's _Power Principle_:
+In particular, we want to design learning modules that adhere to Papert's _Power Principle_:
 
 > What comes first, "using" or "understanding"? The natural mode of learning is to first use, leading slowly to understanding. New ideas are a source of power to _do something_.
 
-## Course Modules
+## Learning Modules
 
 **[Module 1: Get data off the ground](https://github.com/engineersCode/EngComp1_offtheground)**
 — Learn to interact with Python and handle data with Python.
