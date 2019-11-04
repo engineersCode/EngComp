@@ -10,3 +10,6 @@
 	path = modules/3_flyatchange
 	url = https://github.com/engineersCode/EngComp3_flyatchange.git
 	branch = master
+[submodule "modules/4_landlinear"]
+	path = modules/4_landlinear
+	url = git@github.com:engineersCode/EngComp4_landlinear.git
