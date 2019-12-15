@@ -56,7 +56,7 @@ In particular, we want to design learning modules that adhere to Papert's _Power
  https://doi.org/10.6084/m9.figshare.5673526
 
 **[Module 4: Land on vector spaces](https://github.com/engineersCode/EngComp4_landlinear)**
-— Practical linear algebra with Python
+— Using computational thinking to get deep insights on the foundations of linear algebra
 
 1) Transform all the vectors
 2) The matrix is everywhere
