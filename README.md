@@ -55,6 +55,14 @@ In particular, we want to design learning modules that adhere to Papert's _Power
 * **Get a PDF version to print**: _Engineering Computations Module 3: Fly at change in systems._ figshare.
  https://doi.org/10.6084/m9.figshare.5673526
 
+**[Module 4: Land on vector spaces](https://github.com/engineersCode/EngComp4_landlinear)**
+— Practical linear algebra with Python
+
+1) Transform all the vectors
+2) The matrix is everywhere
+3) Eigenvectors for the win
+4) Stick to the essentials: SVD
+
 ## Copyright and License
 
 (c) 2017 Lorena A. Barba, Natalia C. Clementi. All content is under Creative Commons Attribution [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt), and all [code is under BSD-3 clause](https://github.com/engineersCode/EngComp/blob/master/LICENSE). We are happy if you re-use the content in any way!
