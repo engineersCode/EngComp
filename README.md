@@ -44,7 +44,7 @@ In particular, we want to design learning modules that adhere to Papert's _Power
 
 * **Get a PDF version to print**: _Engineering Computations Module 2: Take off with stats._ figshare. https://doi.org/10.6084/m9.figshare.5673499.v1
 
-**[Module 3: Fly at change in systems](https://github.com/engineersCode/EngComp3_flyatchange)**
+**[Module 3: Tour the dynamics of change and motion](https://github.com/engineersCode/EngComp3_flyatchange)**
 — Tackling the dynamics of change with computational thinking. 
 
 1) Catch things in motion
