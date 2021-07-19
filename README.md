@@ -1,7 +1,7 @@
 # Engineering Computations
 
 This project is a collection of learning modules in engineering computations for undergraduate students. 
-The project lead is Prof. Lorena A. Barba at the George Washington University, Mechanical and Aerospace Engineering department. 
+The project lead is [Prof. Lorena A. Barba](https://www.seas.gwu.edu/lorena-barba) at the George Washington University, Mechanical and Aerospace Engineering department. 
 In Fall 2017, Prof. Barba worked with doctoral student Natalia C. Clementi to produce the first three modules of the series.
 With student Tingyu Wang, we wrote the fourth module in 2019. 
 We began writing Module 5 in 2020 and Module 6 in 2021. These are work-in-progress
