@@ -3,9 +3,16 @@
 This project is a collection of learning modules in engineering computations for undergraduate students. 
 The project lead is Prof. Lorena A. Barba at the George Washington University, Mechanical and Aerospace Engineering department. 
 In Fall 2017, Prof. Barba worked with doctoral student Natalia C. Clementi to produce the first three modules of the series.
+With student Tingyu Wang, we wrote the fourth module in 2019. 
+We began writing Module 5 in 2020 and Module 6 in 2021. These are work-in-progress
 
-Eeach learning modules is made up of four or five lessons, written as a Jupyter notebook, and addressing an area of application or skills in computing.
+Eeach learning modules is made up of several lessons, written as a Jupyter notebook, and addressing an area of application or skills in computing.
 We use Python as the programming language.
+
+## Citation
+
+- Barba, L.A., 2020. Engineers Code: reusable open learning modules for engineering computations. _Computing in Science & Engineering_, 22(4), pp.26-35.
+[doi:10.1109/MCSE.2020.2976002](https://doi.org/10.1109/MCSE.2020.2976002)
 
 ## How to clone this repository
 
