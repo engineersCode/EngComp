@@ -70,6 +70,17 @@ In particular, we want to design learning modules that adhere to Papert's _Power
 3) Eigenvectors for the win
 4) Stick to the essentials: SVD
 
+**[Module 5: Transform all the waves](https://github.com/engineersCode/EngComp5_surfourier)** (Work-in-progress)
+- Manipulate complex numbers using Python. Explore information in wave form, programmatically and through visualization. Apply Fourier analysis on wave-like data.
+
+1) The simplicity of the complex (DONE)
+2) Untangle any waveform (WIP)
+3) From waves to Fourier
+4) What is a Fourier transform?
+
+**[Module 6: Deep learning](https://github.com/engineersCode/EngComp6_deeplearning)** (Work-in-progress)**
+- _Coming soon_
+
 ## License
 
 All content is under Creative Commons Attribution [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.txt), and all [code is under BSD-3 clause](https://github.com/engineersCode/EngComp/blob/master/LICENSE). We are happy if you re-use the content in any way!
