@@ -13,6 +13,7 @@ We use Python as the programming language.
 
 - Barba, L.A., 2020. Engineers Code: reusable open learning modules for engineering computations. _Computing in Science & Engineering_, 22(4), pp.26-35.
 [doi:10.1109/MCSE.2020.2976002](https://doi.org/10.1109/MCSE.2020.2976002)
+Preprint on [arXiv::2001.00228](https://arxiv.org/abs/2001.00228)
 
 ## How to clone this repository
 
