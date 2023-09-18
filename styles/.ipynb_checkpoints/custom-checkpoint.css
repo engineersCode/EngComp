@@ -7,27 +7,38 @@
     font-weight: normal;
     font-style: normal;
 }
-
 @font-face {
     font-family: 'et-book';
-    src: url('https://github.com/edwardtufte/et-book/raw/gh-pages/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff') format('woff');
+    src: url('https://cdnjs.cloudflare.com/ajax/libs/tufte-css/1.8.0/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff') format('woff');
     font-weight: normal;
     font-style: italic;
 }
 @font-face {
     font-family: 'et-book';
-    src: url('https://github.com/edwardtufte/et-book/raw/gh-pages/et-book/et-book-bold-line-figures/et-book-bold-line-figures.woff') format('woff');
+    src: url('https://cdnjs.cloudflare.com/ajax/libs/tufte-css/1.8.0/et-book/et-book-bold-line-figures/et-book-bold-line-figures.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
+/* The various ET-Book fonts are on GitHub at: https://github.com/edwardtufte/et-book
+*/
 @font-face{
     font-family: 'Source Code Pro';
     font-weight: 400;
     font-style: normal;
     font-stretch: normal;
-    src: url('https://github.com/adobe-fonts/source-code-pro/tree/release/WOFF2/OTF/SourceCodePro-Regular.otf.woff2') format('woff2'),
-         url('https://github.com/adobe-fonts/source-code-pro/tree/release/WOFF/OTF/SourceCodePro-Regular.otf.woff') format('woff'),
-         url('https://github.com/adobe-fonts/source-code-pro/tree/release/OTF/SourceCodePro-Regular.otf') format('opentype');
+    src: url('https://raw.githubusercontent.com/adobe-fonts/source-code-pro/release/WOFF2/OTF/SourceCodePro-Regular.otf.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/adobe-fonts/source-code-pro/release/WOFF/OTF/SourceCodePro-Regular.otf.woff') format('woff'),
+         url('https://raw.githubusercontent.com/adobe-fonts/source-code-pro/release/OTF/SourceCodePro-Regular.otf') format('opentype');
+}
+
+@font-face{
+    font-family: 'Source Sans';
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    src: url('https://raw.githubusercontent.com/adobe-fonts/source-sans/release/WOFF2/OTF/SourceSans3-Regular.otf.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/adobe-fonts/source-sans/release/WOFF/OTF/SourceSans3-Regular.otf.woff') format('woff'),
+         url('https://raw.githubusercontent.com/adobe-fonts/source-sans/release/OTF/SourceSans3-Regular.otf') format('opentype');
 }
 
 :root {
@@ -103,7 +114,7 @@ div.cell.code_cell {
 
 
 div.text_cell_render{
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Source Sans', sans-serif;
     line-height: 140%;
     font-size: 110%;
     width:680px;
@@ -144,7 +155,7 @@ div.text_cell_render{
 }
 
 .text_cell_render h4 {    /*Use this for captions*/
-    /* font-family: 'Merriweather', serif; */
+    font-family: 'et-book';
     font-weight: 300; 
     font-size: 100%;
     line-height: 120%;
@@ -153,14 +164,13 @@ div.text_cell_render{
     margin-top: 1em;
     margin-bottom: 2em;
     margin-left: 80pt;
-    font-style: regular;
+    font-style: italic;
 }
 
 .text_cell_render h5 {  /*Use this for small titles*/
-    font-family: 'et-book';
+    font-family: 'Source Sans', sans-serif;
     font-size: 130%;
     color: #e31937;
-    font-style: italic;
     margin-bottom: .5em;
     margin-top: 1em;
     display: block;
@@ -178,7 +188,7 @@ div.text_cell_render{
 
     .CodeMirror{
             font-family: "Source Code Pro";
-			font-size: 90%;
+			font-size: 100%;
     }
 /*    .prompt{
         display: None;
