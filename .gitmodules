@@ -13,3 +13,6 @@
 [submodule "modules/4_landlinear"]
 	path = modules/4_landlinear
 	url = https://github.com/engineersCode/EngComp4_landlinear.git
+[submodule "modules/7_genAI"]
+	path = modules/7_genAI
+	url = https://github.com/engineersCode/EngComp7_genAI.git
