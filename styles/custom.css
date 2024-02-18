@@ -40,6 +40,10 @@
          url('https://raw.githubusercontent.com/adobe-fonts/source-sans/release/WOFF/OTF/SourceSans3-Regular.otf.woff') format('woff'),
          url('https://raw.githubusercontent.com/adobe-fonts/source-sans/release/OTF/SourceSans3-Regular.otf') format('opentype');
 }
+@font-face {
+    font-family: "Computer Modern";
+    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
+}
 
 :root {
     --jp-content-line-height: 1.3;
@@ -116,7 +120,7 @@ div.cell.code_cell {
 div.text_cell_render{
     font-family: 'Source Sans', sans-serif;
     line-height: 140%;
-    font-size: 110%;
+    font-size: 100%;
     width:680px;
     margin-left:auto;
     margin-right:auto;
