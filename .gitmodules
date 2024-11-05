@@ -16,3 +16,6 @@
 [submodule "modules/7_genAI"]
 	path = modules/7_genAI
 	url = https://github.com/engineersCode/EngComp7_genAI.git
+[submodule "modules/5_surfourier"]
+	path = modules/5_surfourier
+	url = https://github.com/engineersCode/EngComp5_surfourier.git
